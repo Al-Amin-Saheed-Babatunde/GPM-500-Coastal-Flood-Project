@@ -1,6 +1,6 @@
 DATA ANALYSIS
 
-The data analysis process continued with partitioning of the total generated flood points from the field and satellite images into two distinct categories: flood and non-flood occurrences. A total of 1,237 data points were established, with 648 points precisely classified as flood points and the remaining 589 as non-flood points. This data was subsequently partitioned into training, validation and testing sets in a 70:20:10 ratio respectively, ensuring a robust evaluation of the predictive models to avoid overfitting. 
+The data analysis process involved the partitioning of the total generated flood points from the field and satellite images into two distinct categories: flood and non-flood occurrences. A total of 1,237 data points were established, with 648 points precisely classified as flood points and the remaining 589 as non-flood points. This data was subsequently partitioned into training, validation and testing sets in a 70:20:10 ratio respectively, ensuring a robust evaluation of the predictive models to avoid overfitting. 
 
 PROJECT OVERVIEW 
 
