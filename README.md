@@ -1,3 +1,7 @@
+DATA ANALYSIS
+
+The data analysis process continued with partitioning of the total generated flood points from the field and satellite images into two distinct categories: flood and non-flood occurrences. A total of 1,237 data points were established, with 648 points precisely classified as flood points and the remaining 589 as non-flood points. This data was subsequently partitioned into training, validation and testing sets in a 70:20:10 ratio respectively, ensuring a robust evaluation of the predictive models to avoid overfitting. 
+
 PROJECT OVERVIEW 
 
 This project aimed to: 1) Mitigate the impacts of coastal floodings through timely and accurate forecasts. 2) Develop a comprehensive adaptive Flood Vulnerability Model (FVM) for Ilaje, Ondo State, Southwest Nigeria by combining Geographic Information Systems (GIS), advanced Machine Learning (ML) and Artificial Intelligence (AI) tools. 3) Validate the model to ensure the accuracy of its predictive solutions. 
